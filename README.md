@@ -1,2 +1,2 @@
 # helphand-website
-Donation website built using HTML, CSS, JavaScript, PHP
+Donation website built using HTML, CSS, JavaScript, Php. 
